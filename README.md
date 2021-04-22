@@ -1,2 +1,2 @@
-# Data_Science_Coursera_Week3
-Data_Science_Coursera_Week3
+# Coursera_Week_3
+Segmenting and clustering Neighborhoods In Toronto
